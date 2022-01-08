@@ -1,0 +1,12 @@
+.triangle{
+    height: 0px;
+    width: 0px;
+    
+    border-left: 100px solid  transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid #5785db;
+    margin-left: 700px;
+}
+h2{
+    margin-left: 750px;
+}  
